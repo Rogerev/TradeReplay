@@ -1,0 +1,44 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# Spring Boot
+.springBeans
+.sts4-cache/
+
+# VS Code
+.vscode/
+
+# Metals / Scala tooling
+.metals/
+.bloop/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# Application secrets
+application-local.properties
+application-secret.properties
+
+# Node.js / React
+node_modules/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
